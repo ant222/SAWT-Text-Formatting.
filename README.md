@@ -6,7 +6,7 @@
 	<title></title>
 </head>
 <body>
-<p>Calculated sum is not displaying on page </p>
+<p>Calculated sum is not displaying on page</p>
 </body>
 </html>
 
